@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771329892478",
+    "project_id": "fridge-chef-iel63",
+    "storage_bucket": "fridge-chef-iel63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771329892478:android:55ac37f81b79c3e068f82f",
+        "android_client_info": {
+          "package_name": "med.fridg.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB02iJKFHPFjXNU8QGHPHi9NOs8AVQO_Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
